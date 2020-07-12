@@ -1,8 +1,10 @@
 Este es un proyecto para la realizacion de pruebas de nuevos comandos de git 
 se trata de una pagína realiza con bootstrap
 
+Editando el index
+
 Colaboradores 
 1.-Wiliams Perez Luzan 
-2.-...........
-3.-...........
-4.-........... 
+2.-Cristina Del Carmen Castillo Vidal 
+3.-Marquez Morales Guadalupe 
+4.-Julisa Monserrat 
