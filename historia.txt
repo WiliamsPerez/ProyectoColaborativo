@@ -4,7 +4,12 @@ se trata de una pagína realiza con bootstrap
 Editando el index
 
 Colaboradores 
+<<<<<<< HEAD
 1.-Wiliams Perez Luzan -> Header
 2.-Cristina Del Carmen Castillo Vidal -> Menú
+=======
+1.-Wiliams Perez Luzan -> Header y footer
+2.-Cristina Del Carmen Castillo Vidal -> contenido
+>>>>>>> header
 3.-Marquez Morales Guadalupe 
 4.-Julisa Monserrat  
