@@ -5,6 +5,10 @@ Editando el index
 
 Colaboradores 
 1.-Wiliams Perez Luzan -> Header
+<<<<<<< HEAD
 2.-Cristina Del Carmen Castillo Vidal ->Slider
+=======
+2.-Cristina Del Carmen Castillo Vidal -> Menú
+>>>>>>> 212912f0886eba6853d310397b9f17ed2ac6874e
 3.-Marquez Morales Guadalupe 
 4.-Julisa Monserrat  
