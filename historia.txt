@@ -6,5 +6,5 @@ Editando el index
 Colaboradores 
 1.-Wiliams Perez Luzan -> Header
 2.-Cristina Del Carmen Castillo Vidal -> Menú
-3.-Marquez Morales Guadalupe -> Contenido
-4.-Julisa Monserrat  
+3.-Marquez Morales Guadalupe 
+4.-Julisa Monserrat  ->FOOTER
